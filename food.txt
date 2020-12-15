@@ -1,0 +1,6 @@
+Saturday: m
+Sunday: m
+Monday: m
+Tuesday: m
+Wednesday: m
+Thursday: m

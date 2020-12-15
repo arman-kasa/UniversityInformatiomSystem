@@ -1,0 +1,2 @@
+0 student1 password 19.250000 20000 0 0 0 0 0 0 0 0 
+1 student2 password 16.000000 0 0 0 0 0 0 1 1 0 
